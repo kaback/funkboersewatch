@@ -1,0 +1,11 @@
+[jabber]
+id             = ""
+my_resource    = ""
+other_resource = ""
+passwd         = ""
+server         = "jabber.org"
+port           = 5222
+
+[general]
+seen_db_file       = "/tmp/funkboersewatch"
+
